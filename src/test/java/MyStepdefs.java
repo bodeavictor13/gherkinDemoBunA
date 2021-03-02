@@ -1,4 +1,4 @@
-import cucumber.api.java.en.*;
+import io.cucumber.java.en.*;
 
 import static org.junit.Assert.assertEquals;
 

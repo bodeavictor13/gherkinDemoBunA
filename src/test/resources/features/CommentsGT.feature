@@ -1,4 +1,4 @@
-#@exclude
+@exclude
 Feature: CommentsGT1
 #This is the scenario comment
 
