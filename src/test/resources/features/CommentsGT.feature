@@ -6,7 +6,7 @@ Feature: CommentsGT1
     #This is the Given comment
     Given the following users exist
     #This is the But comment
-    But Clicking the Create New requirement new
+    But Clicking the Create New requirement Augusta
      #This is the And comment
     And Clicking the Create New defect
      #This is the When comment
