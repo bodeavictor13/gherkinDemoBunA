@@ -4,5 +4,5 @@ Feature:
   @TSCID1326003
   Scenario: Hiking adventure
     Given A sunny day
-    When People see it
+    When People see it and like it
     Then They go out for a hiking
