@@ -4,5 +4,5 @@ Feature: OnlineShopping
 
   Scenario: OnlineShopping
     Given   OnlineShopping  given
-    When   OnlineShopping  when
+    When   OnlineShopping  when new Augusta
     Then OnlineShopping then
