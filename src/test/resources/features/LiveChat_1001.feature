@@ -6,7 +6,7 @@ Feature: Shopping cart
   Background:
     Given shopping site is available
 
-  @TSCID1001
+  @TSCID1003
   Scenario: Customer adds item to cart
     Given a visitor on the shopping site
     When he selects and item
@@ -14,7 +14,7 @@ Feature: Shopping cart
     Then the item is added to the cart
     And the quantity is one
 
-  @TSCID1002
+  @TSCID1004
   Scenario Outline: Adding multiple items to cart
     Given a visitor on the shopping site
     When he selects an item
