@@ -1,4 +1,7 @@
+#Auto generated Octane revision tag
+@BSPID1001REV0.15.0
 Feature: feature name by Augusta second
+  @TSCID1001
   Scenario: Sort teams appearance in tooltip by creation time
     Given you create 3 teams and assigned your user to each one of the teams
     When navigate to backlog grid
@@ -18,6 +21,7 @@ Feature: feature name by Augusta second
     And one little tiny cat
     And one
 
+  @TSCID1002
   Scenario: Open Teams with a chat
     Given Teams is configured in Octane
     When Navigate to an entity doc view
