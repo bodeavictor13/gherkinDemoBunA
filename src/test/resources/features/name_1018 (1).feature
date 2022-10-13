@@ -1,5 +1,4 @@
 #Auto generated Octane revision tag #language: ro
-#language: ro
 @BSPID1018REV0.3.0
 #language: ro
 Feature: name
