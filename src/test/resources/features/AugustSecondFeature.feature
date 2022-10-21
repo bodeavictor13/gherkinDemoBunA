@@ -2,7 +2,7 @@
 @BSPID1001REV0.15.0
 Feature: feature name by Augusta second
 @TSCID3009
-	Scenario: Open Teams with a chat
+	Scenario: Open Teams with a chat2
     Given Teams is configured in Octane
     When Navigate to an entity doc view
     And Hover over the name of the Author
