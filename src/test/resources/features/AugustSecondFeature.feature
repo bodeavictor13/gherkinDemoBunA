@@ -1,6 +1,12 @@
 #Auto generated Octane revision tag
 @BSPID1001REV0.15.0
 Feature: feature name by Augusta second
+@TSCID3011
+	Scenario: 
+		Given yyy
+		When yyy
+		Then yyy
+		
 @TSCID3010
 	Scenario: Open Teams with a chat2222
     Given Teams is configured in Octane
