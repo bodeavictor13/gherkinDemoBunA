@@ -3,7 +3,7 @@
 Feature: feature name by Augusta second
 @TSCID3011
 	Scenario: Victor
-		Given yyytrt
+		Given yyytrtr
 		When yyy
 		Then yyy
 		
