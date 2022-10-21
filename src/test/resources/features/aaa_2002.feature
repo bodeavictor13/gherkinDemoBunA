@@ -8,7 +8,7 @@ Feature: aaa
 		Then fff
 
 @TSCID4003
-	Scenario: a2
+	Scenario: a2 schimbat
 		Given rrr
 		When vvvv
 		Then bbbb
