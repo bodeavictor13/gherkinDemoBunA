@@ -1,6 +1,14 @@
 #Auto generated Octane revision tag
 @BSPID1001REV0.15.0
 Feature: feature name by Augusta second
+@TSCID3009
+	Scenario: Open Teams with a chat
+    Given Teams is configured in Octane
+    When Navigate to an entity doc view
+    And Hover over the name of the Author
+    Then A box is displayed and Teams icon is there
+    When Click on Teams icon
+    Then The user is redirected to Teams chat (with the user on which he hovered on)
   @TSCID1001
   Scenario: Sort teams appearance in tooltip by creation time
     Given you create 3 teams and assigned your user to each one of the teams
