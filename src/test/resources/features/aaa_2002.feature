@@ -18,3 +18,10 @@ Feature: aaa
 		Given qqqq
 		When zzz
 		Then mmmmm
+
+@TSCID4005
+	Scenario: a5
+		Given jjjjj
+		When ooooo
+		Then kkkkkk
+		
