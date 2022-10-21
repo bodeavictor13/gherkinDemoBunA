@@ -1,7 +1,7 @@
 #Auto generated Octane revision tag
 @BSPID1001REV0.15.0
 Feature: feature name by Augusta second
-@TSCID3009
+@TSCID3010
 	Scenario: Open Teams with a chat2222
     Given Teams is configured in Octane
     When Navigate to an entity doc view
