@@ -2,7 +2,7 @@
 @BSPID1001REV0.15.0
 Feature: feature name by Augusta second
 @TSCID3011
-	Scenario: 
+	Scenario: Victor
 		Given yyy
 		When yyy
 		Then yyy
