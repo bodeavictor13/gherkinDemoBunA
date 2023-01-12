@@ -14,8 +14,8 @@ Feature: LaptopBDD
     When the user modifies the KEYBOARD
     Then the KEYBOARD is modified
     
-@TSCID1880082
-  Scenario: Laptop scenario f
+@TSCID1880085
+  Scenario: 
     Given there is a KEYBOARD
     When the user modifies the KEYBOARD
     Then the KEYBOARD is modified
