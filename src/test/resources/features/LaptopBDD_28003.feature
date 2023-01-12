@@ -13,12 +13,6 @@ Feature: LaptopBDD
     Given there is a KEYBOARD
     When the user modifies the KEYBOARD
     Then the KEYBOARD is modified
-    
-@TSCID1880085
-  Scenario: 
-    Given there is a KEYBOARD
-    When the user modifies the KEYBOARD
-    Then the KEYBOARD is modified
 
 @TSCID1880083
     Scenario: Laptop scenario d
